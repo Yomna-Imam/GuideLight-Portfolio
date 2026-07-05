@@ -31,6 +31,6 @@ Target Users
 - Visually impaired users.
 - Anyone who needs assistance understanding official documents and navigating to service locations.
 
-#Authors
+#Authors: 
 Yomna Mazhar
 Dareen Yasser
